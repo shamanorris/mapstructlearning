@@ -1,5 +1,5 @@
 /target/
 /.apt_generated/
-/.settings
+/.settings/
 .classpath
 .project
